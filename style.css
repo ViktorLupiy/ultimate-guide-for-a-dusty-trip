@@ -3,6 +3,7 @@ h1 {
     font-size: 46px;
     display: flex;
     justify-content: flex-end;
+    float: right;
 }
 body{
     background-color: yellow;
